@@ -1,0 +1,13 @@
+type: object
+
+properties:
+  customerId:
+    type: string
+
+  customerName:
+    type: object
+    properties:
+      name:
+        type: string
+      email:
+        type: string
