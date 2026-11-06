@@ -1,0 +1,4 @@
+name: CustomerCreated
+
+payload:
+  $ref: "https://raw.githubusercontent.com/ddiaz-2026/asyncapi-resolver/refs/heads/main/customer.yaml"
